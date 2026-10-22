@@ -45,7 +45,7 @@ passion:  [Creative Design, Frontend, Backend, Social Media Design]
 
 ---
 
-### 📂 Projects
+### 📂 Recent Projects
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
