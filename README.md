@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/204426754?s=200&v=4" alt="Alif Fikri" width="110" />
-
 # Alif Fikri Haykal
 
 **Web Developer · UI/UX · Multimedia**
