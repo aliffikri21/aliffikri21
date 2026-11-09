@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alif Fikri Haykal
+# Alif Fikri Haykal Said
 
 **Web Developer · UI/UX · Multimedia**
 <br/>
